@@ -1,0 +1,12 @@
+C:\Users\Denise\Documents\GitHub\testes-unitario-java\src\main\java\one\digitalinnovation\beerstock\mapper\BeerMapper.java
+C:\Users\Denise\Documents\GitHub\testes-unitario-java\src\main\java\one\digitalinnovation\beerstock\repository\BeerRepository.java
+C:\Users\Denise\Documents\GitHub\testes-unitario-java\src\main\java\one\digitalinnovation\beerstock\config\SwaggerConfig.java
+C:\Users\Denise\Documents\GitHub\testes-unitario-java\src\main\java\one\digitalinnovation\beerstock\controller\BeerControllerDocs.java
+C:\Users\Denise\Documents\GitHub\testes-unitario-java\src\main\java\one\digitalinnovation\beerstock\entity\Beer.java
+C:\Users\Denise\Documents\GitHub\testes-unitario-java\src\main\java\one\digitalinnovation\beerstock\service\BeerService.java
+C:\Users\Denise\Documents\GitHub\testes-unitario-java\src\main\java\one\digitalinnovation\beerstock\dto\BeerDTO.java
+C:\Users\Denise\Documents\GitHub\testes-unitario-java\src\main\java\one\digitalinnovation\beerstock\exception\BeerAlreadyRegisteredException.java
+C:\Users\Denise\Documents\GitHub\testes-unitario-java\src\main\java\one\digitalinnovation\beerstock\exception\BeerNotFoundException.java
+C:\Users\Denise\Documents\GitHub\testes-unitario-java\src\main\java\one\digitalinnovation\beerstock\enums\BeerType.java
+C:\Users\Denise\Documents\GitHub\testes-unitario-java\src\main\java\one\digitalinnovation\beerstock\controller\BeerController.java
+C:\Users\Denise\Documents\GitHub\testes-unitario-java\src\main\java\one\digitalinnovation\beerstock\BeerstockApplication.java
